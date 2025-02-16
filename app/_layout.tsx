@@ -2,6 +2,8 @@ import { Text, View } from 'react-native'
 import { Stack } from 'expo-router';
 import React from 'react'
 
+import './../assets/css/global.css';
+
 const RootLayout = () => {
   return (
     <Stack>
